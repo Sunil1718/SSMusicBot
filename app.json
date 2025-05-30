@@ -124,8 +124,8 @@
             "required": false
         },
         "SUPPORT_CHANNEL": {
-            "description": "Telegram Channel Link",
-            "value": "https://t.me/FallenProjects",
+            "description": "https://t.me/ss_music_group",
+            "value": "https://t.me/ss_music_update",
             "required": false
         },
         "AUTO_LEAVE": {
